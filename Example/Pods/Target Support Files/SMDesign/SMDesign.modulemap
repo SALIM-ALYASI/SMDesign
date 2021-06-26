@@ -1,0 +1,6 @@
+framework module SMDesign {
+  umbrella header "SMDesign-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SMDesign (0.1.0)
+
+DEPENDENCIES:
+  - SMDesign (from `../`)
+
+EXTERNAL SOURCES:
+  SMDesign:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SMDesign: 8ad078897bb2ad4ceb7d45b742656b72157b919e
+
+PODFILE CHECKSUM: 0f3fda4f54f3f6126f6723585d1d2085135ed651
+
+COCOAPODS: 1.10.1

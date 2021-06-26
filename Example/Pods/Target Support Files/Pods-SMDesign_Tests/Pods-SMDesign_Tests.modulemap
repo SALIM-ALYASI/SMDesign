@@ -1,0 +1,6 @@
+framework module Pods_SMDesign_Tests {
+  umbrella header "Pods-SMDesign_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

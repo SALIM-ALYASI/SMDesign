@@ -28,7 +28,7 @@ s.source           = { :git => 'https://github.com/SALIM-ALYASI/SMDesign.git', :
 s.social_media_url = 'https://www.youtube.com/channel/UC0CEMuSzjYP_CNOi8BHxZIg'
 s.ios.deployment_target = '12.1'
 
-s.source_files = 'Design/**/*.swift'
+s.source_files = 'ALYASI/**/*.swift'
 s.swift_version = '5.0'
 s.platforms = {
     "ios": "12.1"

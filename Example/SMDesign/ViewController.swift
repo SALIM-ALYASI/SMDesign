@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import SMDesign
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SMDesign'
   s.version          = '0.1.0'
-  s.summary          = 'DScrollView is UIScrollView in one line of code.'
+  s.summary          = '‏View و Button و ImageView هذه الأدوات داعمه في المكتبة لتسهيل التصميم في المشروع من تظليل وتقويس واللوان متترجه وأعمال كثيره في مكتبه SMDesign تسهل عملك في التصميم الجميل.'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
 s.description      = <<-DESC
-'DscrollView is an awesome pod aimed to make yor life easier around UIScrollViews.'
+'‏View و Button و ImageView هذه الأدوات داعمه في المكتبة لتسهيل التصميم في المشروع من تظليل وتقويس واللوان متترجه وأعمال كثيره في مكتبه SMDesign تسهل عملك في التصميم الجميل'
                    DESC
 
 s.homepage         = 'https://github.com/SALIM-ALYASI/SMDesign'

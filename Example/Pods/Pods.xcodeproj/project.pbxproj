@@ -107,14 +107,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0982B70A26872FE0004C9454 /* ALYASI */ = {
+		0982B70A26872FE0004C9454 /* Design */ = {
 			isa = PBXGroup;
 			children = (
 				0982B70B2687305F004C9454 /* DesignView.swift */,
 				0982B70E26873069004C9454 /* DesignButton.swift */,
 				0982B71126873075004C9454 /* DesignImageView.swift */,
 			);
-			path = ALYASI;
+			path = Design;
 			sourceTree = "<group>";
 		};
 		2130E2C27364D2D3CA5226D8BB82A013 /* Development Pods */ = {
@@ -215,7 +215,7 @@
 		E935728EA8E005204794B6E6C68C132B /* SMDesign */ = {
 			isa = PBXGroup;
 			children = (
-				0982B70A26872FE0004C9454 /* ALYASI */,
+				0982B70A26872FE0004C9454 /* Design */,
 				95969D7CC4EC56AC6F4BBBAC4891F2B4 /* Pod */,
 				6C0C2A0BF37BB75245ACE5D30054A6C3 /* Support Files */,
 			);
